@@ -1,0 +1,56 @@
+[ 2019-02-22T11:56:01+08:00 ] 192.168.1.100 /favicon.ico
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+ERR: 无法加载模块:Favicon
+
+[ 2019-02-22T12:01:52+08:00 ] 192.168.1.100 /favicon.ico
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+ERR: 无法加载模块:Favicon
+
+[ 2019-02-22T17:50:27+08:00 ] 192.168.1.100 /index.php/ztb/productZBT/GetCollectCategoryList
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+ERR: 无法加载模块:Ztb
+
+[ 2019-02-22T17:50:28+08:00 ] 192.168.1.100 /index.php/ztb/productZBT/GetCollectCategoryList
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+ERR: 无法加载模块:Ztb
+
+[ 2019-02-22T17:50:30+08:00 ] 192.168.1.100 /index.php/ztb/productZBT/GetCollectCategoryList
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+ERR: 无法加载模块:Ztb
+
+[ 2019-02-22T17:50:31+08:00 ] 192.168.1.100 /index.php/ztb/productZBT/GetCollectCategoryList
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+ERR: 无法加载模块:Ztb
+
+[ 2019-02-22T17:50:39+08:00 ] 192.168.1.100 /Data/UploadFiles/product/20170428/1493342431423135.jpg
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+ERR: 无法加载模块:Data
+
+[ 2019-02-22T17:50:40+08:00 ] 192.168.1.100 /Data/UploadFiles/product/20170506/1494037725840566.jpg
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+ERR: 无法加载模块:Data
+

@@ -1,0 +1,147 @@
+[ 2019-02-25T09:58:32+08:00 ] 192.168.1.100 /index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Api\Conf\config.php 第 40 行.
+
+[ 2019-02-25T09:58:36+08:00 ] 192.168.1.100 /index.php/Api/User/getorder
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Api\Conf\config.php 第 40 行.
+
+[ 2019-02-25T09:58:37+08:00 ] 192.168.1.100 /index.php/Api/User/getorder
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Api\Conf\config.php 第 40 行.
+
+[ 2019-02-25T09:58:39+08:00 ] 192.168.1.100 /index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000116s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Api\Conf\config.php 第 40 行.
+
+[ 2019-02-25T09:58:40+08:00 ] 192.168.1.100 /index.php/Api/Product/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Api\Conf\config.php 第 40 行.
+
+[ 2019-02-25T09:58:45+08:00 ] 192.168.1.100 /index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Api\Conf\config.php 第 40 行.
+
+[ 2019-02-25T09:59:46+08:00 ] 192.168.1.100 /index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Api\Conf\config.php 第 40 行.
+
+[ 2019-02-25T10:00:43+08:00 ] 192.168.1.100 /index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000096s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Api\Conf\config.php 第 40 行.
+
+[ 2019-02-25T10:03:45+08:00 ] 192.168.1.100 /index.php/Api/Product/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Api\Conf\config.php 第 40 行.
+
+[ 2019-02-25T10:10:23+08:00 ] 192.168.1.100 /index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Api\Conf\config.php 第 40 行.
+
+[ 2019-02-25T10:10:40+08:00 ] 192.168.1.100 /index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000084s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Api\Conf\config.php 第 40 行.
+
+[ 2019-02-25T10:11:06+08:00 ] 192.168.1.9 /index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Api\Conf\config.php 第 40 行.
+
+[ 2019-02-25T10:11:08+08:00 ] 192.168.1.9 /index.php/Api/Product/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Api\Conf\config.php 第 40 行.
+
+[ 2019-02-25T10:16:00+08:00 ] 192.168.1.9 /index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Api\Conf\config.php 第 40 行.
+
+[ 2019-02-25T10:16:00+08:00 ] 192.168.1.9 /index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Api\Conf\config.php 第 40 行.
+
+[ 2019-02-25T10:21:06+08:00 ] 192.168.1.100 /index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Api\Conf\config.php 第 40 行.
+
+[ 2019-02-25T10:22:11+08:00 ] 192.168.1.100 /index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Api\Conf\config.php 第 40 行.
+
+[ 2019-02-25T10:22:33+08:00 ] 192.168.1.9 /index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000143s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Api\Conf\config.php 第 40 行.
+
+[ 2019-02-25T10:22:49+08:00 ] 192.168.1.9 /index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Api\Conf\config.php 第 40 行.
+
+[ 2019-02-25T10:22:54+08:00 ] 192.168.1.9 /index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Api\Conf\config.php 第 40 行.
+
+[ 2019-02-25T10:22:55+08:00 ] 192.168.1.9 /index.php/Api/Product/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Api\Conf\config.php 第 40 行.
+

@@ -1,0 +1,629 @@
+[ 2019-02-22T11:56:32+08:00 ] 192.168.1.100 /admin
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000546s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000598s ]
+
+[ 2019-02-22T11:56:33+08:00 ] 192.168.1.100 /index.php/Admin/Login/index.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000399s ]
+SQL: SHOW COLUMNS FROM `lr_program` [ RunTime:0.0138s ]
+SQL: SELECT * FROM `lr_program` LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000786s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000838s ]
+NOTIC: [8] Undefined variable: key C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Runtime\Cache\Admin\f0f0edaa955fd2857dedea53d1ab9ca3.php 第 28 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017990s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018024s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000333s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000360s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000486s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000514s ]
+
+[ 2019-02-22T11:56:33+08:00 ] 192.168.1.100 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000421s ]
+ERR: 非法操作:lib
+
+[ 2019-02-22T11:56:34+08:00 ] 192.168.1.100 /index.php/Admin/Login/static/h-ui/js/H-ui.min.js
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000391s ]
+ERR: 非法操作:static
+
+[ 2019-02-22T11:56:37+08:00 ] 192.168.1.100 /index.php/Admin/Login/index.html?key=
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000692s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000774s ]
+SQL: SHOW COLUMNS FROM `lr_adminuser` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `lr_adminuser` WHERE ( name='admin' AND del<1 ) LIMIT 1   [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `lr_program` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `lr_program` LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: shop_id C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Admin\Controller\LoginController.class.php 第 21 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000595s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000635s ]
+
+[ 2019-02-22T11:56:38+08:00 ] 192.168.1.100 /index.php/Admin/Index/index.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000383s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000419s ]
+SQL: SHOW COLUMNS FROM `lr_web` [ RunTime:0.0087s ]
+SQL: SELECT `concent` FROM `lr_web` WHERE ( id=5 ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000130s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012462s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012506s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000479s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000514s ]
+
+[ 2019-02-22T11:56:38+08:00 ] 192.168.1.100 /index.php/Admin/Page/adminindex.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000641s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000695s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000128s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007791s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007874s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000529s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000585s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000741s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000795s ]
+
+[ 2019-02-22T11:56:41+08:00 ] 192.168.1.100 /index.php/Admin/Activity/index.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000402s ]
+SQL: SHOW COLUMNS FROM `lr_activity` [ RunTime:0.0012s ]
+SQL: SELECT `id`,`name`,`sort`,`is_status` FROM `lr_activity` ORDER BY is_status desc,sort asc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+NOTIC: [8] Undefined variable: name C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Runtime\Cache\Admin\40364c1d9e67faec4d35fbfb16f408f2.php 第 63 行.
+NOTIC: [8] Undefined variable: tel C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Runtime\Cache\Admin\40364c1d9e67faec4d35fbfb16f408f2.php 第 63 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008217s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008265s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000308s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000423s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000450s ]
+
+[ 2019-02-22T11:56:43+08:00 ] 192.168.1.100 /index.php/Admin/Activity/set_qy.html?qy_id=4
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000402s ]
+SQL: SHOW COLUMNS FROM `lr_activity` [ RunTime:0.0012s ]
+SQL: SELECT `id`,`name`,`sort`,`is_status` FROM `lr_activity` ORDER BY is_status desc,sort asc  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lr_activity` WHERE ( id=4 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: UPDATE `lr_activity` SET `is_status`='1' WHERE ( id=4 ) [ RunTime:0.0123s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000084s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005900s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005946s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000284s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000465s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000499s ]
+
+[ 2019-02-22T11:56:44+08:00 ] 192.168.1.100 /index.php/Admin/Activity/index.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000435s ]
+SQL: SHOW COLUMNS FROM `lr_activity` [ RunTime:0.0013s ]
+SQL: SELECT `id`,`name`,`sort`,`is_status` FROM `lr_activity` ORDER BY is_status desc,sort asc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+NOTIC: [8] Undefined variable: name C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Runtime\Cache\Admin\40364c1d9e67faec4d35fbfb16f408f2.php 第 63 行.
+NOTIC: [8] Undefined variable: tel C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Runtime\Cache\Admin\40364c1d9e67faec4d35fbfb16f408f2.php 第 63 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006632s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006675s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000308s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000334s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000451s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000480s ]
+
+[ 2019-02-22T11:56:50+08:00 ] 192.168.1.100 /index.php/Admin/Activity/set_qy.html?qy_id=3
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000447s ]
+SQL: SHOW COLUMNS FROM `lr_activity` [ RunTime:0.0011s ]
+SQL: SELECT `id`,`name`,`sort`,`is_status` FROM `lr_activity` ORDER BY is_status desc,sort asc  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lr_activity` WHERE ( id=3 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `lr_activity` SET `is_status`='0' WHERE ( id=3 ) [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000071s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004245s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004279s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000262s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000287s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000417s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000443s ]
+
+[ 2019-02-22T11:56:51+08:00 ] 192.168.1.100 /index.php/Admin/Activity/index.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000406s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000446s ]
+SQL: SHOW COLUMNS FROM `lr_activity` [ RunTime:0.0016s ]
+SQL: SELECT `id`,`name`,`sort`,`is_status` FROM `lr_activity` ORDER BY is_status desc,sort asc  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+NOTIC: [8] Undefined variable: name C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Runtime\Cache\Admin\40364c1d9e67faec4d35fbfb16f408f2.php 第 63 行.
+NOTIC: [8] Undefined variable: tel C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Runtime\Cache\Admin\40364c1d9e67faec4d35fbfb16f408f2.php 第 63 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007304s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007350s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000294s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000320s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000424s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000451s ]
+
+[ 2019-02-22T12:01:52+08:00 ] 192.168.1.100 /index.php/Admin/Index/index.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001011s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001060s ]
+SQL: SHOW COLUMNS FROM `lr_web` [ RunTime:0.0015s ]
+SQL: SELECT `concent` FROM `lr_web` WHERE ( id=5 ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000116s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000159s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019302s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019369s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001135s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001184s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001627s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001695s ]
+
+[ 2019-02-22T12:01:52+08:00 ] 192.168.1.100 /index.php/Admin/Page/adminindex.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000084s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000537s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000591s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006426s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006482s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000379s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000494s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000524s ]
+
+[ 2019-02-22T12:02:14+08:00 ] 192.168.1.100 /index.php/Admin/Activity/index.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000432s ]
+SQL: SHOW COLUMNS FROM `lr_activity` [ RunTime:0.0012s ]
+SQL: SELECT `id`,`name`,`sort`,`is_status` FROM `lr_activity` ORDER BY is_status desc,sort asc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+NOTIC: [8] Undefined variable: name C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Runtime\Cache\Admin\40364c1d9e67faec4d35fbfb16f408f2.php 第 63 行.
+NOTIC: [8] Undefined variable: tel C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Runtime\Cache\Admin\40364c1d9e67faec4d35fbfb16f408f2.php 第 63 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007113s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007148s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000329s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000357s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000425s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000453s ]
+
+[ 2019-02-22T12:02:15+08:00 ] 192.168.1.100 /index.php/Admin/Activity/set_qy.html?qy_id=4
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000410s ]
+SQL: SHOW COLUMNS FROM `lr_activity` [ RunTime:0.0012s ]
+SQL: SELECT `id`,`name`,`sort`,`is_status` FROM `lr_activity` ORDER BY is_status desc,sort asc  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lr_activity` WHERE ( id=4 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: UPDATE `lr_activity` SET `is_status`='0' WHERE ( id=4 ) [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000081s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004865s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004901s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000262s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000287s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000425s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000451s ]
+
+[ 2019-02-22T12:02:17+08:00 ] 192.168.1.100 /index.php/Admin/Activity/index.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000412s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000449s ]
+SQL: SHOW COLUMNS FROM `lr_activity` [ RunTime:0.0016s ]
+SQL: SELECT `id`,`name`,`sort`,`is_status` FROM `lr_activity` ORDER BY is_status desc,sort asc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000100s ]
+NOTIC: [8] Undefined variable: name C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Runtime\Cache\Admin\40364c1d9e67faec4d35fbfb16f408f2.php 第 63 行.
+NOTIC: [8] Undefined variable: tel C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Runtime\Cache\Admin\40364c1d9e67faec4d35fbfb16f408f2.php 第 63 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006458s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006499s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000305s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000427s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000454s ]
+
+[ 2019-02-22T12:02:46+08:00 ] 192.168.1.100 /admin
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000388s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000424s ]
+SQL: SHOW COLUMNS FROM `lr_web` [ RunTime:0.0013s ]
+SQL: SELECT `concent` FROM `lr_web` WHERE ( id=5 ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000133s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007835s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007878s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000283s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000470s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000500s ]
+
+[ 2019-02-22T12:02:46+08:00 ] 192.168.1.100 /index.php/Admin/Page/adminindex.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000478s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000103s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005538s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005593s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000293s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000320s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000434s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000466s ]
+
+[ 2019-02-22T12:02:57+08:00 ] 192.168.1.100 /index.php/Admin/Category/index.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000440s ]
+SQL: SHOW COLUMNS FROM `lr_category` [ RunTime:0.0014s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2`,`bz_4` FROM `lr_category` WHERE ( tid=0 AND bz_4<2 ) ORDER BY sort desc,id asc  [ RunTime:0.0008s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=1 )  [ RunTime:0.0002s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=2 )  [ RunTime:0.0002s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=3 )  [ RunTime:0.0002s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=4 )  [ RunTime:0.0002s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=12 )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000126s ]
+NOTIC: [8] Undefined variable: name C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Runtime\Cache\Admin\fd4baca4519ae09b87f761f8e37c27b2.php 第 28 行.
+NOTIC: [8] Undefined variable: tel C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Runtime\Cache\Admin\fd4baca4519ae09b87f761f8e37c27b2.php 第 28 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010344s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010390s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000419s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000446s ]
+
+[ 2019-02-22T12:10:27+08:00 ] 192.168.1.100 /index.php/Admin/Product/index.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000454s ]
+NOTIC: [8] Undefined index: id C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Admin\Controller\ProductController.class.php 第 14 行.
+NOTIC: [8] Undefined index: shop_id C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Admin\Controller\ProductController.class.php 第 15 行.
+NOTIC: [8] Undefined index: type C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Admin\Controller\ProductController.class.php 第 18 行.
+NOTIC: [8] Undefined index: tuijian C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Admin\Controller\ProductController.class.php 第 19 行.
+NOTIC: [8] Undefined index: name C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Admin\Controller\ProductController.class.php 第 20 行.
+SQL: SHOW COLUMNS FROM `lr_product` [ RunTime:0.0007s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lr_product` WHERE ( 1=1 AND pro_type=1 AND del<1 ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: page C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Admin\Controller\ProductController.class.php 第 32 行.
+SQL: SELECT * FROM `lr_product` WHERE ( 1=1 AND pro_type=1 AND del<1 ) ORDER BY addtime desc LIMIT 0,5   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `lr_category` [ RunTime:0.0006s ]
+SQL: SELECT `name` FROM `lr_category` WHERE ( id=15 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `lr_brand` [ RunTime:0.0004s ]
+SQL: SELECT `name` FROM `lr_brand` WHERE ( id=9 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `lr_activity` [ RunTime:0.0003s ]
+SQL: SELECT `name` FROM `lr_activity` WHERE ( id=4 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `name` FROM `lr_category` WHERE ( id=17 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `name` FROM `lr_brand` WHERE ( id=6 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `name` FROM `lr_activity` WHERE ( id=0 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `name` FROM `lr_category` WHERE ( id=9 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `name` FROM `lr_brand` WHERE ( id=4 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `name` FROM `lr_activity` WHERE ( id=3 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `name` FROM `lr_category` WHERE ( id=15 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `name` FROM `lr_brand` WHERE ( id=7 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `name` FROM `lr_activity` WHERE ( id=6 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `name` FROM `lr_category` WHERE ( id=15 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `name` FROM `lr_brand` WHERE ( id=7 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `name` FROM `lr_activity` WHERE ( id=6 ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000106s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000145s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020438s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020492s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000739s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000767s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000909s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000945s ]
+
+[ 2019-02-22T12:10:29+08:00 ] 192.168.1.100 /index.php/Admin/Product/set_new.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000394s ]
+SQL: SHOW COLUMNS FROM `lr_product` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `lr_product` WHERE ( id=291 AND del=0 AND is_down=0 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `lr_product` SET `is_show`='0' WHERE ( id=291 ) [ RunTime:0.0003s ]
+
+[ 2019-02-22T12:10:40+08:00 ] 192.168.1.100 /index.php/Admin/Product/set_hot.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000399s ]
+SQL: SHOW COLUMNS FROM `lr_product` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `lr_product` WHERE ( id=291 AND del=0 AND is_down=0 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `lr_product` SET `is_hot`='0' WHERE ( id=291 ) [ RunTime:0.0002s ]
+
+[ 2019-02-22T12:10:55+08:00 ] 192.168.1.100 /index.php/Admin/Activity/index.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000410s ]
+SQL: SHOW COLUMNS FROM `lr_activity` [ RunTime:0.0010s ]
+SQL: SELECT `id`,`name`,`sort`,`is_status` FROM `lr_activity` ORDER BY is_status desc,sort asc  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+NOTIC: [8] Undefined variable: name C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Runtime\Cache\Admin\40364c1d9e67faec4d35fbfb16f408f2.php 第 63 行.
+NOTIC: [8] Undefined variable: tel C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Runtime\Cache\Admin\40364c1d9e67faec4d35fbfb16f408f2.php 第 63 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007240s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007274s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000317s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000343s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000464s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000493s ]
+
+[ 2019-02-22T12:10:56+08:00 ] 192.168.1.100 /index.php/Admin/Activity/set_qy.html?qy_id=4
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000454s ]
+SQL: SHOW COLUMNS FROM `lr_activity` [ RunTime:0.0011s ]
+SQL: SELECT `id`,`name`,`sort`,`is_status` FROM `lr_activity` ORDER BY is_status desc,sort asc  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lr_activity` WHERE ( id=4 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: UPDATE `lr_activity` SET `is_status`='1' WHERE ( id=4 ) [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000070s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004615s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004651s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000263s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000422s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000449s ]
+
+[ 2019-02-22T12:10:57+08:00 ] 192.168.1.100 /index.php/Admin/Activity/index.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000430s ]
+SQL: SHOW COLUMNS FROM `lr_activity` [ RunTime:0.0011s ]
+SQL: SELECT `id`,`name`,`sort`,`is_status` FROM `lr_activity` ORDER BY is_status desc,sort asc  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000094s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000156s ]
+NOTIC: [8] Undefined variable: name C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Runtime\Cache\Admin\40364c1d9e67faec4d35fbfb16f408f2.php 第 63 行.
+NOTIC: [8] Undefined variable: tel C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Runtime\Cache\Admin\40364c1d9e67faec4d35fbfb16f408f2.php 第 63 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007347s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007387s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000308s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000338s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000556s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000698s ]
+
+[ 2019-02-22T12:10:59+08:00 ] 192.168.1.100 /index.php/Admin/Activity/set_qy.html?qy_id=3
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000437s ]
+SQL: SHOW COLUMNS FROM `lr_activity` [ RunTime:0.0006s ]
+SQL: SELECT `id`,`name`,`sort`,`is_status` FROM `lr_activity` ORDER BY is_status desc,sort asc  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lr_activity` WHERE ( id=3 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: UPDATE `lr_activity` SET `is_status`='1' WHERE ( id=3 ) [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004339s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004375s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000262s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000287s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000425s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000452s ]
+
+[ 2019-02-22T12:11:00+08:00 ] 192.168.1.100 /index.php/Admin/Activity/index.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000413s ]
+SQL: SHOW COLUMNS FROM `lr_activity` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name`,`sort`,`is_status` FROM `lr_activity` ORDER BY is_status desc,sort asc  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+NOTIC: [8] Undefined variable: name C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Runtime\Cache\Admin\40364c1d9e67faec4d35fbfb16f408f2.php 第 63 行.
+NOTIC: [8] Undefined variable: tel C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Runtime\Cache\Admin\40364c1d9e67faec4d35fbfb16f408f2.php 第 63 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007039s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000269s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000491s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000519s ]
+

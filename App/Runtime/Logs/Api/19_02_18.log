@@ -1,0 +1,32 @@
+[ 2019-02-18T17:42:53+08:00 ] 127.0.0.1 /index.php/Api/Product/get_more
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Api\Conf\config.php 第 40 行.
+
+[ 2019-02-18T17:44:21+08:00 ] 127.0.0.1 /index.php/Api/Index/getlist
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Api\Conf\config.php 第 40 行.
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-8,8' at line 1
+ [ SQL语句 ] : SELECT `id`,`name`,`photo_x`,`price_yh`,`shiyong` FROM `lr_product` WHERE ( del=0 AND pro_type=1 AND is_down=0 AND type=1 ) ORDER BY sort desc,id desc LIMIT -8,8  
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-8,8' at line 1
+ [ SQL语句 ] : SELECT `id`,`name`,`photo_x`,`price_yh`,`shiyong` FROM `lr_product` WHERE ( del=0 AND pro_type=1 AND is_down=0 AND type=1 ) ORDER BY sort desc,id desc LIMIT -8,8  
+
+[ 2019-02-18T17:48:25+08:00 ] 127.0.0.1 /index.php/Api/Category/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Api\Conf\config.php 第 40 行.
+
+[ 2019-02-18T17:48:32+08:00 ] 127.0.0.1 /index.php/Api/Category/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' C:\UPUPW_ANK_W64\WebRoot\Vhosts\xioachengxu\App\Api\Conf\config.php 第 40 行.
+
